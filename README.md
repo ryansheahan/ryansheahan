@@ -1,6 +1,6 @@
 # Ryan Sheahan
 
-25 years in tech. Started pulling cable, ended up running global engineering teams. Somewhere in between I got a lot of certifications, managed infrastructure at a scale I probably shouldn't talk about, wrote a couple of chapters in a firewall book nobody reads anymore, and founded a company.
+Nearing 30 years in tech. Started pulling cable, ended up running global engineering teams. Somewhere in between I got a lot of certifications, managed infrastructure at a scale I probably shouldn't talk about, wrote a couple of chapters in a firewall book nobody reads anymore, and founded a company.
 
 Now I build things that should already exist.
 
